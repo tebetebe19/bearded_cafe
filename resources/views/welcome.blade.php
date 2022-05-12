@@ -86,7 +86,9 @@
     
                     <!-- logo -->
                     <div class="kf-logo">
-                        <a href="index.html"><img src="{{asset('assets/images/logo.png')}}" alt="" /></a>
+                        <a href="#">
+                            <img src="{{asset('assets/images/logo.png')}}" alt="" />
+                        </a>
                     </div>
     
                 </div>
@@ -111,7 +113,7 @@
                     <a href="#" class="kf-menu-btn kf-menu-btnnn"><span></span></a>
     
                     <!-- btn -->
-                    <a href="reservation.html" class="kf-btn h-btn">
+                    <a href="#" class="kf-btn h-btn">
                         <span>Book a table</span>
                     </a>
     
@@ -139,7 +141,7 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
     
                         <!-- mobile btn -->
-                        <a href="reservation.html" class="kf-btn h-btn">
+                        <a href="#" class="kf-btn h-btn">
                             <span>Book a table</span>
                             <i class="fas fa-chevron-right"></i>
                         </a>
@@ -201,11 +203,11 @@
                                         The London <br>Coffee House
                                     </h2>
                                     <div class="kf-bts">
-                                        <a href="menu-restaurant.html" class="kf-btn">
+                                        <a href="#" class="kf-btn">
                                             <span>explore more</span>
                                             <i class="fas fa-chevron-right"></i>
                                         </a>
-                                        <a href="reservation.html" class="kf-btn dark-btn">
+                                        <a href="#" class="kf-btn dark-btn">
                                             <span>get delivery</span>
                                             <i class="fas fa-chevron-right"></i>
                                         </a>
@@ -228,11 +230,11 @@
                                         The Paris<br>Coffee House
                                     </h2>
                                     <div class="kf-bts">
-                                        <a href="menu-coffee.html" class="kf-btn">
+                                        <a href="#" class="kf-btn">
                                             <span>explore more</span>
                                             <i class="fas fa-chevron-right"></i>
                                         </a>
-                                        <a href="reservation.html" class="kf-btn dark-btn">
+                                        <a href="#" class="kf-btn dark-btn">
                                             <span>get delivery</span>
                                             <i class="fas fa-chevron-right"></i>
                                         </a>
@@ -255,11 +257,11 @@
                                         Great Coffee <br>Good Vibes
                                     </h2>
                                     <div class="kf-bts">
-                                        <a href="menu-coffee.html" class="kf-btn">
+                                        <a href="#" class="kf-btn">
                                             <span>explore more</span>
                                             <i class="fas fa-chevron-right"></i>
                                         </a>
-                                        <a href="reservation.html" class="kf-btn dark-btn">
+                                        <a href="#" class="kf-btn dark-btn">
                                             <span>get delivery</span>
                                             <i class="fas fa-chevron-right"></i>
                                         </a>
@@ -329,7 +331,7 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                         <div class="kf-services-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="menu-restaurant.html"><img src="{{asset('assets/images/service1.jpg')}}" alt="" /></a>
+                                <a href="#"><img src="{{asset('assets/images/service1.jpg')}}" alt="" /></a>
                             </div>
                             <div class="desc">
                                 <div class="icon"><i class="las la-utensils"></i></div>
@@ -341,7 +343,7 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                         <div class="kf-services-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="menu-coffee.html"><img src="{{asset('assets/images/service2.jpg')}}" alt="" /></a>
+                                <a href="#"><img src="{{asset('assets/images/service2.jpg')}}" alt="" /></a>
                             </div>
                             <div class="desc">
                                 <div class="icon"><i class="las la-coffee"></i></div>
@@ -376,7 +378,7 @@
                         Choose Best of
                     </div>
                     <h3 class="kf-title element-anim-1 scroll-animate" data-animate="active">
-                        Kaffen Coffee Menu
+                        Kaffen Menu
                     </h3>
                 </div>
 
@@ -562,7 +564,7 @@
                             </ul>
                         </div>
 
-                        <a href="about.html" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
+                        <a href="#" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
                             <span>explore more</span>
                             <i class="fas fa-chevron-right"></i>
                         </a>
@@ -966,7 +968,7 @@
 
                 <div class="align-center">
 
-                    <a href="blog-grid.html" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
+                    <a href="#" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
                         <span>view all</span>
                         <i class="fas fa-chevron-right"></i>
                     </a>
@@ -995,7 +997,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 align-self-center align-right">
 
-                        <a href="reservation.html" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
+                        <a href="#" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
                             <span>booking table</span>
                             <i class="fas fa-chevron-right"></i>
                         </a>
@@ -1016,7 +1018,7 @@
     
                     <!-- logo -->
                     <div class="kf-logo element-anim-1 scroll-animate" data-animate="active">
-                        <a href="index.html"><img src="{{asset('assets/images/logo.png')}}" alt="" /></a>
+                        <a href="#"><img src="{{asset('assets/images/logo.png')}}" alt="" /></a>
                     </div>
     
                 </div>
@@ -1055,12 +1057,12 @@
                             <li>
                                 <i class="las la-envelope-open-text"></i>
                                 <em>Email Address :</em>
-                                kaffendev@gmail.com
+                                yourmail@domain.com
                             </li>
                             <li>
                                 <i class="las la-phone"></i>
                                 <em>Phone Number :</em>
-                                +012 (345) 678 99
+                                +012 (23) 123 123
                             </li>
                         </ul>
                     </div>
